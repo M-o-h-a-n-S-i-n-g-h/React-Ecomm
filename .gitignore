@@ -5,6 +5,7 @@
 /.pnp
 .pnp.js
 /styles from rsources
+../ecomm-react/src/components/CollectionItem/images
 
 # testing
 /coverage
