@@ -10,7 +10,7 @@ const CollectionItem = ({ id, imageUrl, name, price }) => {
         }}
         alt=""
         className="image"
-      />
+      />{" "}
       <div className="collection-footer">
         <span className="name">{name}</span>
         <span className="price">{price}</span>

@@ -10,6 +10,7 @@ class ShopPage extends React.Component {
       collections: SHOP_DATA,
     };
   }
+  //Filter methid
   render() {
     const { collections } = this.state;
     return (
