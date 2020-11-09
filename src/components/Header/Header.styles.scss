@@ -21,6 +21,11 @@
     .option {
       padding: 10px 15px;
       list-style: none;
+      font-weight: 500;
+
+      &:hover {
+        color: cyan;
+      }
     }
   }
 }
